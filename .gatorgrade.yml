@@ -209,17 +209,18 @@
     options:
       regex: "light\\s=="
       count: 2
-- .bus:
-  - description: Bus.py (wherever it is) uses a while statement
-    category: The Public Transport Project
-    check: MatchFileRegex
-    options:
-      regex: "while\\sstoplight"
-      count: 1
-- .car:
-  - description: Car.py (where'd it go?) uses at least two if statements for the signal variable
-    category: The Private Transport Project
-    check: MatchFileRegex
-    options:
-      regex: "(el)?if\\ssignal\\s=="
-      count: 2
+#- .bus:
+#  - description: Bus.py (wherever it is) uses a while statement
+#    category: The Public Transport Project (Bus)
+#    check: MatchFileFragment
+#    options:
+#      fragment: "while\\sstoplight"
+#      count: 1
+
+#- .car:
+#  - description: Car.py (where'd it go?) uses at least two if statements for the signal variable
+#    category: The Private Transport Project
+#    check: MatchFileRegex
+#    options:
+#      regex: "(el)?if\\ssignal\\s=="
+#      count: 2

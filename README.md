@@ -1,12 +1,12 @@
 | Date              |          |
 |:------------------|:---------|
-| TODO | Assigned |
-| TODO    | Due      |
+| 2 October 2023 | Assigned |
+| 16 October 2023    | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # TURNABOUTS TO TAME TRAFFIC? `term-world` CITIZENS' TAKES ARE TEPID
 
-**Reported by `The Reporter` from `Ix` on  `TODO`**
+**Reported by `The Reporter` from `Ix` on  2 October 2023**
 
 (Ix) - Given the recent influx of individuals into `term-world`, traffic has been impossibly inundated, incensing impatient idlers who are, in a word, irate. The irritating impact of this impotent infrastructure was immediately identified by our incredible Mayor when he involved himself with an important inspection of the near-infinite incidence of intolerable wait times. He said in an insightful insider interview implicating inept engineers: "I'm incredulous! It's irresponsible, immoral, insidious!"
 
@@ -39,9 +39,25 @@ You'll complete several main tasks:
 * Repairing a `Car.py` to drive from point-to-point
 * Returning a `Bus.py` to service (work order below)
 
-### Previous Learning Objectives
+## Learning Outcomes
 
-If you wish to review previous learning objectives from our assignments, you can visit the [`Syllabus`](https://chompe.rs/100-syllabus) for helpful information. However, it's also important to make an effort to retain what we have covered thus far as we progress through the course sections of the Readme might be taken out.
+In this assignment you will learn:
+
+- Writing conditional statements in Python
+- Writing repeatition statements in Python
+
+You will also continue to practice:
+
+- Command line navigation
+- Running Python programs
+- Using version control
+- Technical writing in Markdown
+
+These assignment learning outcomes contribute to the following course learning outcomes described in the [course syllabus](https://github.com/cmpsc100-allegheny-college/course_information):
+
+1. Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems.
+2. Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+3. Analyze and suggest revisions to existing Python language code to improve or add functionality.
 
 ## Completing `traffic-circle` content
 
@@ -198,7 +214,7 @@ This file uses a `while` loop which _repeats_ procedures. Minus some small logic
 
 **Create one branch called `reflection` to capture your work on this section of the assignment; all members should contribute to the same branch.**
 
-All of the above tasks completed, finish the collaborative reflection located in the `office`.
+When all of the above tasks completed, finish the collaborative reflection located in the `office`.
 
 ## Improvement Suggestions
 
@@ -215,8 +231,16 @@ Here are some suggestions for improvements you may use:
 |Create a new traffic light         |Create a new traffic light problem with the code used in other lights |
 |Wait for timed lights in real time |For a light with a timer or countdown make users wait out the duration of the timer |
 
-* Make sure to link your issue with the pull request you used to make your actually improvement
+To make an improvement proposal, you must _create an issue_ on this repository. Do so by:
+
+* clicking the `Issues` tab at the top of the page.
+* clicking the green `New Issue` button
+* selecting the `Improvement Proposal` template 
+
+**Make sure to link your issue with the pull request you used to make your actually improvement.**
 * If you pursue an improvement not listed above, you must discuss your improvement with a member of the Mayoral staff
+
+### Improvement
 
 ## Backup Policy Reminder
 
