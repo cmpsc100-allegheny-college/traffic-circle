@@ -238,9 +238,32 @@ To make an improvement proposal, you must _create an issue_ on this repository. 
 * selecting the `Improvement Proposal` template 
 
 **Make sure to link your issue with the pull request you used to make your actually improvement.**
-* If you pursue an improvement not listed above, you must discuss your improvement with a member of the Mayoral staff
+* If you pursue an improvement not listed above, you must discuss your improvement with a member of the Mayoral staff.
+  
+## Code Walkthrough
 
-### Improvement
+Code walkthrough a type of peer review where the writer of the code leads the process. The goal of code walkthrough is to create a shared understanding of created code, to detect any potential flaws in the code and to correct them. 
+
+During the lab sessions on October 6th and October 13th, each member of the neighborhood will engage in the code walkthrough with TLs and the instructor. In this walkthrough, we will specifically focus on: 
+- conditional statements;
+- loops.
+
+Each member of the neighborhood will be asked to open a Python program that they modified and explain parts of the program involving `if`, `elif`, and/or `while` statements.
+During the walkthrough, TLs and the instructor will also ask pertinent questions about the code.
+
+**Participation in the code walkthrough is required for this assignment. `Complete` status for the assignment can not be obtained without engaging in a walkthrough.**
+
+## Evaluating `traffic-circle` Content
+
+In addition to a check from the walkthrough, which evaluates understanding of the new topic of the week - `control statements`, the content for this week (and most every week to follow) is outfitted with a grader program that can be used to evaluate the rest of your work for this two week assignment. Again, in order to run the grader for this assignment's work, you will need to be in the topmost level of the `traffic-circle` folder.
+
+Once there, run the command:
+
+`gatorgrade`
+
+The grader will take a few minutes to do its work, but once it's complete the program will populate your terminal window with a series of checks that gauge the overall "completeness" of your work.
+
+There are 28 grader checks in this assignment. Participation in the walkthrough counts as an additional 29th check. All 29 checks (all of the grader checks and the walkthrough) must be completed by the due date to receive baseline credit for this assignment!
 
 ## Backup Policy Reminder
 
